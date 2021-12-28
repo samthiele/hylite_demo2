@@ -1,7 +1,7 @@
 # hylite demo
 Binder demos for the *hylite* hyperspectral toolbox. 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samthiele/hylite_demo/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samthiele/hylite_demo2/HEAD)
 
 Additional information
 -----
