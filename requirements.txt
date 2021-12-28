@@ -4,6 +4,6 @@
 #
 #    pip-compile
 #
-opencv_python==4.5
-opencv_contrib_python==4.5
+opencv_python>=4.5
+opencv_contrib_python>=4.5
 hylite>=1.2 # install hylite from pip
