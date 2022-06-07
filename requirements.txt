@@ -6,4 +6,4 @@
 #
 opencv_python==4.5.2.54
 opencv_contrib_python==4.5.2.54
-hylite>=1.2 # install hylite from pip
+git+https://github.com/hifexplo/hylite.git # install latest hylite version
